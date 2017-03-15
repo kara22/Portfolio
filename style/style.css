@@ -12,6 +12,10 @@
 p {
   font-family: 'Source Code Pro', monospace;
 }
+
+li {
+   font-family: 'Source Code Pro', monospace;
+}
  p a , li a {
  color:inherit;
  text-decoration: none;
