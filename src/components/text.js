@@ -13,7 +13,11 @@ class Text extends Component {
       <ul className="list-group">
 
         <li className="text-center list-group-item">
-          <a href="https://markbin-app.herokuapp.com" target="_blank">Markbin - Personal project - Meteor / React JS</a>
+          <a href="https://markbin-app.herokuapp.com" target="_blank">Markbin - Personal project - Node JS / React JS</a>
+        </li>
+
+        <li className="text-center list-group-item">
+          <a href="https://funnyapp-img.herokuapp.com" target="_blank">Funny App  - Personal project - Node JS / React JS</a>
         </li>
 
         <li className="text-center list-group-item">
@@ -21,7 +25,7 @@ class Text extends Component {
         </li>
 
         <li className="text-center list-group-item">
-          <a href="https://employees-random.herokuapp.com" target="_blank">Employees - Personal project - Meteor / React JS</a>
+          <a href="https://employees-random.herokuapp.com" target="_blank">Employees - Personal project - Node JS / React JS</a>
         </li>
 
         <li className="text-center list-group-item">
