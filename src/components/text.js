@@ -17,6 +17,10 @@ class Text extends Component {
         </li>
 
         <li className="text-center list-group-item">
+          <a href="https://karadesign.herokuapp.com" target="_blank">Portfolio V1 - Personal project - Ruby on Rails</a>
+        </li>
+
+        <li className="text-center list-group-item">
           <a href="https://employees-random.herokuapp.com" target="_blank">Employees - Personal project - Meteor / React JS</a>
         </li>
 
@@ -25,7 +29,7 @@ class Text extends Component {
         </li>
 
         <li className="text-center list-group-item">
-          <a href="https://emcc-export.herokuapp.com" target="_blank">Vinci construction - B2B project - Ruby</a>
+          <a href="https://emcc-export.herokuapp.com" target="_blank">Vinci construction - B2B project - Ruby on Rails</a>
         </li>
 
       </ul>
