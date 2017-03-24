@@ -9,7 +9,7 @@ class Text extends Component {
 
         </p>
 
-        <p className="text-center">Credits :</p>
+        <p className="text-center"> Check it out ! :</p>
       <ul className="list-group">
 
         <li className="text-center list-group-item">
